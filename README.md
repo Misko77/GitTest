@@ -1,2 +1,0 @@
-# GitTest
-Just a test
